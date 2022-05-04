@@ -19,7 +19,7 @@ function App() {
           <NavLink to="/fetch">Fetch</NavLink>
           <NavLink to="/reducer">Reducer</NavLink>
           <NavLink to="/contact">Contact</NavLink>
-          <NavLink to="/b">Reducer</NavLink>
+          <NavLink to="/b">Test</NavLink>
         </div>
 
         <Routes>
